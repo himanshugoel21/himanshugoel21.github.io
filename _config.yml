@@ -2,7 +2,7 @@
 title               : Himanshu Goel
 description         : >-
                       "I love to read and write on Productivity, Information Security, Meditation and Fitness. Let us connect :smile: ."
-baseurl             : "/himanshugoel"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : himanshugoel21/himanshugoel.github.io    # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : himanshugoel21/himanshugoel.github.io
 
