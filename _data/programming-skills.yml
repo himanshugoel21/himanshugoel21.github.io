@@ -1,0 +1,11 @@
+- name: Payment Industry Compliance
+  percentage: 90
+  color: danger
+
+- name: Healthcare Industry Compliance
+  percentage: 80
+  color:
+
+- name: Auditing
+  percentage: 90
+  color: dark

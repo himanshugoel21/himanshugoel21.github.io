@@ -1,0 +1,7 @@
+- name: Laziness
+  percentage: 100
+  color: info
+
+- name: Procrastination
+  percentage: 100
+  color: success
