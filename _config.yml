@@ -56,6 +56,15 @@ collections:
     output: true                                        # For Documentation Only
 
 
+### Collections ###
+collections:
+  projects:
+    output: true
+    permalink: /photography/:name
+  elements:                                             # For Documentation Only
+    output: true                                        # For Documentation Only
+
+
 ### Disqus ###
 disqus: your-short-name-disqus                          # Your website Shortname on disqus
 
