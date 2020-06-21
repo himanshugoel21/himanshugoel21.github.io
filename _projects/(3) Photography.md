@@ -1,7 +1,8 @@
 ---
 name: Photography (Hobby)📸
 tools: [Photography, Oh Hello World]
-image: https://www.sketchappsources.com/resources/source-image/movie-badges-jurajjurik.png
+image: /img/red.jpg
 description: This is a photography project where I share my best pictures taken by Me.
 ---
 
+hiiiiiiiiiiiiiiiiiiiiiiiiiiiiii take help from elements
