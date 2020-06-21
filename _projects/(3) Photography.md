@@ -1,8 +1,8 @@
 ---
-name: Photography (Hobby)📸
+name: Photography(Best Clicks)📸
 tools: [Photography, Oh Hello World]
 image: /img/red.jpg
-description: This is a photography project where I share my best pictures taken by Me.
+description: My Favourite Clicks around the World
 ---
 
 hiiiiiiiiiiiiiiiiiiiiiiiiiiiiii take help from elements

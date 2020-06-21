@@ -1,7 +1,18 @@
-- name: Laziness
+- name: Procrastination
   percentage: 100
   color: info
 
-- name: Procrastination
-  percentage: 100
+- name: Photography
+  percentage: 60
   color: success
+  
+- name: Writing
+  percentage: 40
+  color: 
+  
+- name: Ukulele
+  percentage: 25
+  color: danger
+  
+  
+  
