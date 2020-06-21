@@ -3,7 +3,7 @@ title: CISA Domain 1 Notes
 tags: [Certification, CISA]
 style: fill
 color: danger
-description: Learn and understand the basics of callbacks in just 6 minutes with easy examples.
+description: Important CISA Domain 1 notes.
 ---
 
 Source: CISA Manual

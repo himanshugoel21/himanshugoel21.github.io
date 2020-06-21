@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "CISA Domain 2 Notes",
+      "category" : "",
+      "tags"     : "Certification, CISA",
+      "url"      : "/blog/cisa-domain-2-notes",
+      "date"     : "2020-06-21 00:00:00 +0530"
+    } ,
+  
+    {
       "title"    : "CISA Domain 1 Notes",
       "category" : "",
       "tags"     : "Certification, CISA",
@@ -22,14 +30,6 @@
       "tags"     : "React, JavaScript, Web Development",
       "url"      : "/blog/learn-react-js",
       "date"     : "2019-02-15 00:00:00 +0530"
-    } ,
-  
-    {
-      "title"    : "Clean Coding",
-      "category" : "",
-      "tags"     : "Software Development, Clean Code",
-      "url"      : "/blog/clean-coding",
-      "date"     : "2018-12-10 00:00:00 +0530"
     } ,
   
     {
