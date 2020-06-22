@@ -1,6 +1,6 @@
-- name: Procrastination
-  percentage: 100
-  color: info
+- name: Creative Thinking
+  percentage: 90
+  color: danger
 
 - name: Photography
   percentage: 60
@@ -12,7 +12,7 @@
   
 - name: Ukulele
   percentage: 25
-  color: danger
+  color: info
   
   
   
