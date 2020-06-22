@@ -2,7 +2,7 @@
 title: CISA Domain 2 Notes
 tags: [Certification, CISA]
 style: fill
-color: danger
+color: dark
 description: Important notes on CISA Domain 2
 ---
 Main points to remember (please excuse the brevity and spell errors):
