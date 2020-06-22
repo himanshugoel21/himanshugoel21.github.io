@@ -17,6 +17,14 @@
     } ,
   
     {
+      "title"    : "Simple trick to go back to “The One Thing”",
+      "category" : "",
+      "tags"     : "productivity, one thing",
+      "url"      : "/blog/simple-trick-go-back-to-one-thing",
+      "date"     : "2020-05-09 00:00:00 +0530"
+    } ,
+  
+    {
       "title"    : "Digital Minimalism",
       "category" : "",
       "tags"     : "Social Media, Minimalism, Technology",
@@ -30,14 +38,6 @@
       "tags"     : "React, JavaScript, Web Development",
       "url"      : "/blog/learn-react-js",
       "date"     : "2019-02-15 00:00:00 +0530"
-    } ,
-  
-    {
-      "title"    : "4 Lessons After 11 Years in Silicon Valley",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/blog/four-lessons-after-eleven-years-in-silicon-valley",
-      "date"     : "2018-05-09 00:00:00 +0530"
     } ,
   
     {
