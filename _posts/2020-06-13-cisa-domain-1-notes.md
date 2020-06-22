@@ -2,7 +2,7 @@
 title: CISA Domain 1 Notes
 tags: [Certification, CISA]
 style: fill
-color: secondary
+color: light
 description: Important CISA Domain 1 notes.
 ---
 

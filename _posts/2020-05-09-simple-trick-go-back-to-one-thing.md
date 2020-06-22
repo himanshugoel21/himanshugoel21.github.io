@@ -2,7 +2,7 @@
 title: Simple trick to go back to “The One Thing”
 tags: [productivity, one thing]
 style: fill
-color: secondary
+color: light
 description: Achieve your "One Thing"
 ---
 Sometimes we are so doubtful in life that we think that only complex solutions can solve our problems.

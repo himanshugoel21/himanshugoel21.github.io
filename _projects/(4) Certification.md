@@ -1,6 +1,6 @@
 ---
 name: Certifications📚
-tools: [Insight Timer]
+tools: [InfoSec, CISA, CISSP]
 image: /img/purple.jpg
 description: Notes on InfoSec Certifications.
 ---
