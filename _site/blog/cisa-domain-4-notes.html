@@ -1,0 +1,416 @@
+<!DOCTYPE html>
+
+<!--
+  portfolYOU Jekyll theme by Youssef Raafat
+  Free for personal and commercial use under the MIT license
+  https://github.com/YoussefRaafatNasry/portfolYOU
+-->
+
+<html lang="en" class="h-100">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content=""I love to read and write on Productivity, Information Security, Meditation and Fitness. Let's connect :smile: ."">
+
+  <title>Himanshu Goel</title>
+  <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon.ico">
+
+  <!-- Font Awesome CDN -->
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.10.0/css/all.css">
+
+  <!-- Bootstrap CSS CDN -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+
+  <!-- Animate CSS CDN -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.css" type="text/css"/>
+  
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="/assets/css/style.css" type="text/css">
+
+</head>
+
+
+<body class="d-flex flex-column h-100">
+
+  <main class="flex-shrink-0 container mt-5">
+  <nav class="navbar navbar-expand-lg navbar-light">
+
+  <a class="navbar-brand" href="/"><h5><b>Himanshu Goel</b></h5></a>
+
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+    <div class="navbar-nav ml-auto">
+<a class="nav-item nav-link " href="/projects/">Projects</a>
+
+      <a class="nav-item nav-link active" href="/blog/">Blog</a>
+
+      <a class="nav-item nav-link " href="/about/">About</a>
+
+      
+
+    </div>
+  </div>
+
+</nav>
+  <div class="col-lg-10 mx-auto mt-5 post">
+  <h1><b>CISA Domain 4 Notes</b></h1>
+
+<p class="post-metadata text-muted">
+  23 June 2020 -  
+  <b>14 mins read time</b>
+
+  <br>Tags: 
+    
+    <a class="text-decoration-none no-underline" href="/blog/tags#certification">
+      <span class="tag badge badge-pill text-primary border border-primary">Certification</span>
+    </a>
+    
+    <a class="text-decoration-none no-underline" href="/blog/tags#cisa">
+      <span class="tag badge badge-pill text-primary border border-primary">CISA</span>
+    </a>
+    </p>
+
+<p>Main points to remember (please excuse the brevity and spell errors):</p>
+<ol>
+  <li>
+<strong>Service provider SLA</strong>:
+    <ul>
+      <li><strong>Most Imp –&gt; Transition to new or internal process post contract termination</strong></li>
+      <li>Right to audit – imp</li>
+      <li>To check uptime reports in SLA –&gt; check <strong>Availability reports</strong>.</li>
+    </ul>
+  </li>
+  <li>
+<strong>Database</strong>:
+    <ul>
+      <li>Assurance on Database Referential integrity should be provided by reviewing –&gt; <strong>Foreign Key Structure</strong>
+        <ul>
+          <li>
+<strong>Referential entity in a RDBMS refers</strong> to the consistency between couple (linked) tables. Ref integrity is usually enforced by the combination of a primary key or candidate key (alternate key) and <strong>foreign key</strong>. For ref integrity to hold, any field in a table that is declared a foreign key should contain only values from a parent tables primary key or candidate key.</li>
+        </ul>
+      </li>
+      <li>Default configuration should be changed</li>
+      <li>Concerning if DBA is performing OS patches as that should be done by System Admin</li>
+      <li>DBA suggests that efficiency can be increased using <strong>De-normalization</strong> –&gt; It results in Data Redundancy –&gt; <strong>Normalization is a design or optimization process for RDBMS that increases redundancy</strong>
+</li>
+      <li>Concurrency objective in DB –&gt; <strong>Ensure integrity when 2 processes attempt to update same data</strong>
+</li>
+      <li>
+<strong>GREATEST ASSURANCE of DATABASE INTEGRITY</strong> –&gt; <strong>Table link/Reference checks</strong>  –&gt; Performing these <strong>checks detect table link errors (such as completeness and accuracy</strong> of the contents of db) and thus provide greatest assurance of database integrity.</li>
+      <li>Database audit logs should be <strong>deleted other than DBA</strong>
+</li>
+      <li>During maintenance of RDBMS –&gt; several values of <strong>foreign key in a transaction table have been corrupted</strong> –&gt; consequence –&gt; <strong>Detail of involved transactions may no longer be associated with master data, causing errors when these transactions are processed</strong>
+</li>
+      <li>In RDBMS with referential integrity –&gt; t<strong>he use of which of the following keys would prevent deletion</strong> of a ROW from customer table as long as customer number of that row is stored with live orders on the orders table —&gt; <strong>FOREIGN KEY</strong>
+</li>
+      <li>
+<strong>DENORMALIZATION – WILL INCREASE RISK OF</strong>  —-&gt; <strong>🔥LOSS OF DATA INTEGRITY</strong>
+</li>
+      <li>Which DB controls would ensure that the <strong>integrity of transactions is maintained in an online transaction processing systems database</strong>  —&gt; <strong>🔥🔥COMMITMENT AND ROLL BACK CONTROLS</strong>
+</li>
+      <li>User Spool and Database limit controls can affect the performances significantly.</li>
+      <li>
+<strong>Database processing suddenly comes to a halt –&gt; Integrity best ensured by –&gt;</strong> Database commits and rollbacks**</li>
+      <li>
+<strong>IT mgmt has decided to install RAD and remove off-site backups —&gt; IT auditor should re-instate for off-site backups</strong> #readquestionproperly #understandmeaning #remove2options</li>
+      <li>IS auditor sees corrupted data in database –&gt; <strong>corrective control is</strong> –&gt; <strong>🔥🔥Data restore procedures</strong>
+</li>
+    </ul>
+  </li>
+  <li>Auditor notices patches are deployed as per vendor –&gt; MOST significant RISK would be that IT has🔥 not <strong>TESTED THESE PATCHES</strong>.</li>
+  <li>For any changes done in business like – service provider change etc.. –&gt; <strong>APPLICATION OWNERS SHOULD BE INFORMED</strong>.</li>
+  <li>Auditor checking change mgmnt - Most imp control that IS auditor should look for to ensure system availability –&gt; <strong>Test Plans and procedures exist and are closely followed</strong>
+</li>
+  <li>🔴🔥Disaster Recovery Plan - DRP (💥Addresses Tech aspect of BCP💥)
+    <ul>
+      <li>Auditor reviewing <strong>DR PLAN</strong> –&gt; Plan should <strong>PRIMARILY COVERS</strong> –&gt; <strong>🔥🔥🔥🔴🔴🔴💥💥ANALYSIS and PRIORITIZATION OF BUSINESS FUNCTIONS</strong>
+</li>
+      <li>Downtime cost increases with time.</li>
+      <li>🔥<strong>Most Imp element</strong> to effectively execute a DRP –&gt; <strong>Offsite storage of backup data</strong>
+</li>
+      <li>
+<strong>Business Impact Analysis</strong> should be used in DRP for it to be successful</li>
+      <li>🔥<strong>NO TEST DONE IS CRITICAL</strong> – DRP –&gt; <strong>auditor observed remote offices have very limited local IT resources</strong> –&gt; <strong>MOST Critical</strong> –&gt; is that <strong>🔴no test is done to ensure that local resources</strong> could maintain security and service standards when recovering from a disaster or incident.</li>
+      <li>
+<strong>Periodically Test - DRP – for continued compatibility</strong> of the contingency facilities</li>
+      <li>Org recovery from disaster in which not all critical data was retained – &gt; <strong>Issue with RPO</strong>
+</li>
+      <li>Org DR plan - Auditor should <strong>Primarily</strong> verify that – <strong>regularly reviewed and updated</strong>
+</li>
+      <li>Auditor reviewing DR of hot site used by financial institution –&gt; <strong>Greatest Concern</strong> in this is –&gt; <strong>Disk space Utilization data are not kept current</strong> –&gt; without data of disks it can lead to a big disaster</li>
+      <li>
+<strong>BEST Evidence of an org DR capabilities</strong> —&gt; <strong>RESULTS OF TESTS</strong>
+</li>
+      <li>🔥<strong>MOST IMP</strong> to review when conducting – DR AUDIT –&gt; <strong>DATA BACKUPS ARE Performed Timely and Stored Offsite</strong>
+</li>
+      <li>Data Mirroring Strategy –&gt; When Data doesn’t need be lost at all –&gt; <strong>Hence RPO is low</strong> —&gt; <strong>Low Data Loss –&gt; Low RPO</strong>
+</li>
+      <li>🔥🔥🔥When <strong>reviewing DRP</strong> –&gt; Auditor will be <strong>MOST CONCERNED</strong> with the lack of 🔴🔴<strong>PROCESS OWNER INVOLVEMENT</strong>
+</li>
+      <li>
+<strong>IF Recovery TIME OBJECTIVE INCREASES –&gt; 🔥🔥The Disaster Tolerance Increases</strong> –&gt; it means if 5 days are required than company can tolerate upto 5 days of without business.</li>
+      <li>DRP of a big org is changed and not tested –&gt; <strong>Impact is catastrophic service disruption</strong>
+</li>
+      <li>When developing <strong>DRP, the criteria for determining the acceptable downtime</strong> should be –&gt; <strong>🔥🔥MAXIMUM TOLERABLE OUTAGE</strong>
+</li>
+      <li>
+<strong>BACKUP TECHNIQUES to use</strong> –&gt; MOST appropriate when an org requires <strong>🔴🔴EXTREMELY GRANULAR</strong> data restore points –&gt; <strong>CONTINUOUS DATA BACKUP</strong> –&gt; <strong>SHORT /LOW RPO –&gt; Continuous backup – best option</strong>
+</li>
+      <li>
+<strong>LOWER RECOVERY TIME OBJECTIVE</strong>  —&gt; <strong>HIGHER COSTS</strong> – <strong>💥HOT SITE</strong>
+</li>
+      <li><strong>LOWER RPO –&gt; Granular backup –&gt; Continuous backup</strong></li>
+      <li>During DR test, auditor notes that <strong>server is slow –</strong>&gt; <strong>🔥Best possible scenario is to check the configuration of the server</strong> (if some unauth actions done on server, then check logs)</li>
+      <li>
+<strong>GREATEST CONCERN</strong> when reviewing IT DR <strong>TEST</strong> —&gt; <strong>🔥🔥During test, some of the backup systems were DEFECTIVE and NOT WORKING – causing the test to FAIL</strong>
+</li>
+      <li>
+<strong>Frequent updating of which</strong> of the following is key to the continued <strong>effectiveness of a DR plan</strong> —&gt; <strong>🔴💥Contact information of key personnel</strong>
+</li>
+      <li><strong>To address an org DR requirements, backup intervals should not exceed —&gt; 🔥🔥RPO</strong></li>
+      <li>
+<strong>MOST EFFICIENT WAY TO DETERMINE EFFECTIVENESS OF THE DR PLAN</strong> ——&gt; <strong>Efficient</strong> –&gt; <strong>🔥Preparedness test</strong>
+</li>
+      <li>In a contract with a hot, warm, or cold site, contractual provisions should PRIMARILY cover –&gt; <strong>🔥🔥Number of subscribers permitted to use a site at one time</strong>🔥🔥</li>
+      <li>
+<strong>MOST APPROPRIATE recovery strategy for a sensitive system with a high recovery time objective (RTO)</strong>  —-&gt; <strong>High RTO –High disaster tolerance</strong> –&gt; <strong>🔥Cold Site.</strong>
+</li>
+      <li>
+<strong>For structured DR – MOST imp is that business continuity and disaster recover plan</strong>  — &gt; <strong>🔥TESTED REGULARLY</strong>
+</li>
+      <li>
+<strong>BEST METHOD TO ENSURE</strong> — critical IT system failures doesn’t recur –» <strong>PERFORM ROOT CAUSE ANALYSIS</strong>.</li>
+      <li>
+<strong>Auditor reviewing most recent disaster recovery plan of an org</strong> –&gt; WHOSE APPROVAL IS IMP when determining availability of system resources required for the PLAN ——– »&gt; <strong>🔥IT MANAGEMENT</strong>
+</li>
+      <li>
+<strong>AFTER TABLE TOP</strong> —&gt; <strong>NEXT STEP WOULD BE to be perform 🔥🔥FUNCTIONAL TESTS</strong> – which includes mobilization of the staff to exercise admin and org functions.</li>
+      <li><strong>TESTS FOR CO-ORDINATION in which relevant members participate –&gt; Paper based test</strong></li>
+      <li><strong>Prepared-ness test is performed by EACH local office to test the adequacy of the preparedness of local operations.</strong></li>
+    </ul>
+  </li>
+  <li>
+<strong>Business Continuity PLAN</strong>:
+    <ul>
+      <li>
+<strong>Continuity Test Plan</strong> that <strong>simulates crash and uses actual resources</strong> to cost effectively obtain evidence —–&gt; 🔥<strong>PREPAREDNESS TEST</strong>
+</li>
+      <li>🔴<strong>Designing BCP for airlines</strong> –&gt; <strong>MOST APPROPRIATE</strong> method of data transfer/backup at an offsite location would be –&gt; 🔥<strong>SHADOW FILE PROCESSING</strong> –&gt; <strong>Exact duplicates of the files are maintained</strong> at the same site or at a remote site –&gt; Two files are processed concurrently –&gt; good for airlines. (<strong>hot sites takes time - like few hours</strong>)</li>
+      <li>
+<strong>Most Imp in developing - BCP</strong> ——–»»&gt; 🔥<strong>Process Owner</strong>
+</li>
+      <li>
+<strong>MAJOR CONCERN</strong>  for IS auditor –&gt; Test results are not documented – <strong>Effectiveness of BCP can be best determined through tests</strong>
+</li>
+      <li>
+<strong>PRIMARY OBJECTIVE</strong> of BCP test is –&gt; <strong>Identify limitations of BCP</strong>
+</li>
+      <li>IS auditor <strong>interviews key stakeholders in an org to determine whether they understand their roles and resp</strong> —&gt; IS auditor is attempting to <strong>🔥🔥evaluate the clarity and simplicity of the business continuity plans</strong>.</li>
+      <li>During BCP – <strong>IS auditor noticed that the point at which</strong> Situation is declared to be a crisis has not been identified <strong>—-&gt;</strong> MAJOR RISK associated with this is —&gt; 🔥🔥EXECUTION OF THE DR PLAN COULD BE IMPACTED**</li>
+      <li>
+<strong>WHICH BEST helps define disaster recovery strategies</strong> –&gt; <strong>🔥🔥MAX TOLERABLE Downtime and data loss</strong>
+</li>
+      <li>
+<strong>After disaster declaration</strong>  –&gt; Media creation date at a warm recovery site is based on <strong>💥🔥RPO</strong>
+</li>
+      <li>
+<strong>Activation of an enterprise BCP should be based on pre-determined criteria</strong> —&gt; that address the <strong>🔥🔥🔴DURATION OF THE OUTAGE</strong>.</li>
+      <li>
+<strong>MOST effective business continuity plan</strong> –&gt; <strong>Planning involves all user departments</strong>
+</li>
+      <li><strong>Important to note that – Responsibility of declaring a disaster is very imp</strong></li>
+      <li>
+<strong>PRIMARY OBJECTIVE of BCP PROCESS</strong> —&gt; is to <strong>🔥🔥focus on managing and mitigating risk during recovery</strong> of operations due to an event that affected operations</li>
+    </ul>
+  </li>
+  <li>
+<strong>For acceptable time period for the resumption of critical business processes</strong> –&gt; <strong>🔥Both downtime costs and recovery costs need to be evaluated</strong>
+</li>
+  <li>🔴Unshielded twisted pair (UTP) cable for data communication over copper based has advantage of –&gt; <strong>reducing crosstalk</strong>
+</li>
+  <li>Method of routing traffic through <strong>split cable or duplicate cable</strong> is <strong>Diverse Cable</strong> (SC DC)</li>
+  <li>
+<strong>To verify correct version of a data file used for prod</strong> –&gt; Auditor should review <strong>SYSTEM LOGS</strong>
+</li>
+  <li>🔥🔥Best audit procedures to determine if <strong>unauth changes have been made to prod code</strong> –&gt; is to <strong>🔥Examine object code to find instances of changes and trace them back to change control records</strong>
+</li>
+  <li>🔴🔥<strong>IS auditor should review?</strong> to ensure servers are optimally configured to support processing requirements –  <strong>SERVER UTILIZATION REPORTS</strong>
+</li>
+  <li>🔥<strong>Purpose of Code Signing</strong> is —–&gt; <strong>🔴Software has not been subsequently modified.</strong>
+</li>
+  <li>🔥When reviewing process for continuous monitoring of the capacity and performance of IT resources an IS auditor <strong>PRIMARILY</strong> ensure that process is focused on –&gt; <strong>Accurate feedback on IT resource capacity</strong>
+</li>
+  <li>
+<strong>Business impact analysis (BIA)</strong>
+    <ul>
+      <li>Best source of information for determining the criticality of application systems –&gt; <strong>Business Process Owners</strong>
+</li>
+      <li>
+<strong>PRIMARY PURPOSE of business impact analysis</strong> —-&gt; <strong>Define recovery strategy</strong>
+</li>
+    </ul>
+  </li>
+  <li>🔥Which of the following reports should an <strong>IS auditor use to check compliance with a service level agreement’s</strong> requirement for uptime –&gt; <strong>Availability reports</strong>
+</li>
+  <li>🔥IS auditor use to determine if unauthorized modifications were made to production programs –&gt; <strong>Compliance Testing</strong>
+</li>
+  <li>🔴<strong>MOST helpful</strong> when evaluating the effectiveness and adequacy of a preventive computer maintenance program –&gt; <strong>System downtime log provides evidence regarding the effectiveness and adequacy of computer preventive maintenance program</strong>
+</li>
+  <li>🔥<strong>Online pooling tool to monitor</strong> and record application outages is the best option for an org to monitor the software as a service application availability.</li>
+  <li>🔴<strong>Help Desk Function</strong> –&gt; is a service oriented unit –&gt; <strong>End users must be advised before an incident can be regarded as closed</strong>
+</li>
+  <li>POS –&gt; <strong>centralized communication processor for connecting to the banking</strong> network. Best DR plan –&gt; <strong>Alternative standby processor at another network node</strong> would be the best solution. The unavailability of the central communications processor would disrupt.</li>
+  <li>Evaluating programmed controls over password management, which of the following is the IS auditor <strong>MOST</strong> likely to rely on –&gt; <strong>**Validity check would be the most useful for the verification of passwords</strong> because it would verify that the <strong>required format</strong> has been used - for example not using dictionary word.</li>
+  <li>
+<strong>Reciprocal Agreement</strong>:
+    <ul>
+      <li>
+<strong>GREATEST RISK</strong> of reciprocal in different companies – Developments may result in h/w and s/w incompatibility.</li>
+      <li>
+<strong>GREATEST RISK</strong> in reciprocal of same business units –&gt; Affected by <strong>same disaster risk – same incident.</strong>
+</li>
+      <li>
+<strong>Reciprocal MITIGATION OF RISKS</strong> –&gt; Ensure that partnering organizations are separated geographically</li>
+    </ul>
+  </li>
+  <li>
+<strong>Most effective in ensuring that production code and object code are in sync</strong> –&gt;  <strong>Date and timestamp reviews of source and object code</strong>
+</li>
+  <li>
+<strong>Most Effective</strong> to detect malicious activity in production program –&gt; <strong>Review of system log files</strong>
+</li>
+  <li>
+<strong>Recovery procedures for an Information processing facility</strong> –  <strong>BEST</strong> BASED ON –&gt; <strong>Recovery Time Objective</strong>
+</li>
+  <li>Maximum Tolerable Outage –&gt; amount of time allowed for the recovery of a business function or resource after a disaster occurs: <strong>represents a time by which the service must be restored</strong>
+</li>
+  <li>🔵Capacity Management
+    <ul>
+      <li>
+<strong>Primary benefit</strong> of IT Manager monitoring technical capacity –ensure that SLA req are met. Capacity Management has several objectives –&gt; <strong>MAIN IS SLA REQ</strong>
+</li>
+    </ul>
+  </li>
+  <li>Change Control Process
+    <ul>
+      <li>
+<strong>Most efficient way to test effectiveness of change management process</strong> —&gt; <strong>Perform end to end walkthrough of the process</strong>
+</li>
+      <li>IS auditor noted a <strong>system crash caused by security patch</strong> –&gt; To provide assurance this wont happen again, auditor should –&gt; <strong>change management process is adequate</strong>
+</li>
+    </ul>
+  </li>
+  <li><strong>For proper SOD –&gt; developer should have access to development only – any code change should be again done as part of the development cycle</strong></li>
+  <li>Reporting and responsibility lines cannot always be established when auditing automated systems because —&gt;  <strong>ownership is difficult to establish where resources are shared</strong>
+</li>
+  <li>
+<strong>Library control S/w</strong> —&gt;  <strong>Main objective</strong> of Library control s/w is <strong>changes have been authorized</strong>
+</li>
+  <li>Auditor examining the security config of an OS should review –&gt; <strong>parameter settings</strong>
+</li>
+  <li><strong>In Open Source s/w –&gt; Identify and test suitable patches before applying them</strong></li>
+  <li>
+<strong>Main Criterion for determining the severity level of a service disruption incident is</strong> ——»&gt; <strong>🔥DOWNTIME</strong>
+</li>
+  <li>Performing preventive maintenance on electrical systems can result in <strong>unexpected downtime</strong> during office hours.</li>
+  <li>During recent app development –&gt; auditor noted that sla was miss due to <strong>incorrect priorities</strong> –&gt; <strong>Support model was not properly developed and implemented</strong>
+</li>
+  <li>
+<strong>GREATEST RISK WHEN SERVER STORAGE IS NOT MANAGED PROPERLY</strong> —&gt; <strong>🔥🔥Server recovery work may not meet the recovery time objective</strong>
+</li>
+  <li><strong>FIRST STEP in the execution of a problem management mechanism should be —-&gt;🔥🔥 Exception Reporting</strong></li>
+  <li>
+<strong>RAID LEVEL</strong>  — <strong>PRIMARY PURPOSE</strong> —-&gt; 🔥Ensure Availability of data</li>
+  <li>
+<strong>Important consideration in providing backup for online systems –&gt; Ensuring periodic dumps of transaction logs</strong>.</li>
+  <li>
+<strong>Supervisory approval and review of critical changes</strong> by the accountable managers in the enterprises are required to avoid and detect any unauth change.</li>
+  <li>
+<strong>Incident response team</strong> –&gt; should handle this <strong>first after a major incident</strong> in a facility –&gt; <strong>🔥💥💥Containment at the facility</strong>
+</li>
+  <li>
+<strong>SERVICE DELIVERY OBJECTIVE – SDO</strong> –&gt; is the <strong>🔥level of service to be reached during the alternate process mode</strong> until the normal situation is restored. This is directly related to the business needs.</li>
+  <li>
+<strong>Configuration mgmt database (CMDB) – is used to track configuration items</strong> - CI. <strong>OUT OF DATE CMDB in a large MNC could result in incorrect approvals</strong>
+</li>
+  <li><strong>Incremental backup –&gt; When first time full backup thereafter daily backup only –&gt; MOST APPROPRIATE WHEN THERE IS LIMITED MEDIA CAPACITY</strong></li>
+  <li>What MITIGATES the best – risk of backup media containing irreplaceable information being lost or stolen in transit —&gt; <strong>DUPLICATE COPY</strong>
+</li>
+  <li><strong>Emergency changes can be approved later on – after the activity is finished</strong></li>
+  <li>MOST efficient strategy to backup large quantity mission critical data that needs to be supported 24hours a day –&gt; <strong>implementing a fault tolerant disk to disk backup solution</strong>
+</li>
+  <li>For <strong>PATCHES</strong> ensure <strong>🔥🔥APP OWNER and 🔴🔴DATA OWNER ARE</strong> aware of the same and <strong>their approvals</strong> are taken.</li>
+  <li>
+<strong>Emergency changes are done when</strong> —&gt; there is a high probability of significant impact on operations.</li>
+  <li>For <strong>Emergency changes, best accountability for the support personnel is to create a specific individual support ID – when required</strong> – later on to be deleted.</li>
+  <li><strong>Automated tool can immediately provide a report which patches are running and applied</strong></li>
+  <li>
+<strong>BEST ensures accountability when updating data directly in a production database</strong> —&gt; <strong>🔥🔥Review of Audit Logs</strong>
+</li>
+  <li><strong>Performance criteria for the authentication servers would be helpful to evaluate thresholds of the system performance</strong></li>
+  <li><strong>MOST effective control for enforcing ACCOUNTABILITY —&gt; Implement a log management process</strong></li>
+</ol>
+
+
+
+</div>
+  </main>
+
+  <footer class="mt-auto py-3 text-center">
+
+  <small class="text-muted mb-2">
+    <i class="fas fa-code"></i> with <i class="fas fa-heart"></i>
+    by <strong>Himanshu</strong>
+  </small>
+
+  <div class="container-fluid justify-content-center">
+<a class="social mx-1" href="mailto:hgoel2112@gmail.com" style="color: #6c757d" onmouseover="this.style.color='#db4437'" onmouseout="this.style.color='#6c757d'">
+      <i class="fas fa-envelope fa-1x"></i>
+    </a><a class="social mx-1" href="https://www.github.com/your_username" style="color: #6c757d" onmouseover="this.style.color='#333333'" onmouseout="this.style.color='#6c757d'">
+      <i class="fab fa-github fa-1x"></i>
+    </a><a class="social mx-1" href="https://www.linkedin.com/in/himanshugoel21" style="color: #6c757d" onmouseover="this.style.color='#007bb5'" onmouseout="this.style.color='#6c757d'">
+      <i class="fab fa-linkedin-in fa-1x"></i>
+    </a><a class="social mx-1" href="https://www.twitter.com/himanshugoel21" style="color: #6c757d" onmouseover="this.style.color='#1da1f2'" onmouseout="this.style.color='#6c757d'">
+      <i class="fab fa-twitter fa-1x"></i>
+    </a>
+
+</div>
+<small id="attribution">
+    theme <a href="#">himanshugoel</a>
+  </small>
+  
+</footer>
+
+  
+  <!-- GitHub Buttons -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
+<!-- jQuery CDN -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<!-- Popper.js CDN -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"></script>
+
+<!-- Bootstrap JS CDN -->
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+<!-- wow.js CDN & Activation -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.js"></script>
+<script> new WOW().init(); </script>
+
+<!-- Initialize all tooltips -->
+<script>
+$(function () {
+    $('[data-toggle="tooltip"]').tooltip()
+})
+</script>
+
+</body>
+
+</html>
