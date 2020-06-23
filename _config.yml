@@ -11,6 +11,9 @@ remote_theme        : himanshugoel21/himanshugoel.github.io
 plugins:
   - jemoji
 
+url: "https://himanshugoel.in" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
 
 ### Navbar Settings ###
 nav_exclude:                                            # The following paths are excluded from navbar
