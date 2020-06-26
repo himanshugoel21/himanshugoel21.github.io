@@ -19,7 +19,7 @@ description: My Favourite Clicks around the World
   <div class="card text-center" style="width: 12rem;">
   <div class="card-body">
     <img class="card-img-top" src="/img/resize/newyorkresize.jpg" alt="Go NewYork">
-    <a href="#" class="btn btn-success">New York</a>
+    <a href="#" class="btn btn-success">New York (USA)</a>
   </div>
   </div>
   
@@ -37,7 +37,7 @@ description: My Favourite Clicks around the World
   <div class="card text-center" style="width: 12rem;">
   <div class="card-body bg-light">
     <img class="card-img-top" src="/img/resize/dcresize.jpg" alt="Go DC">
-    <a href="#" class="btn btn-danger">Washington DC</a>
+    <a href="#" class="btn btn-danger">Washington DC (USA)</a>
   </div>
   </div>
 
@@ -51,7 +51,7 @@ description: My Favourite Clicks around the World
   <div class="card text-center" style="width: 12rem;">
   <div class="card-body bg-light">
     <img class="card-img-top" src="/img/resize/tahoeresize.jpg" alt="Go Tahoe">
-    <a href="#" class="btn btn-danger">Tahoe (California)</a>
+    <a href="#" class="btn btn-danger">Tahoe (California - USA)</a>
   </div>
   </div>
   
