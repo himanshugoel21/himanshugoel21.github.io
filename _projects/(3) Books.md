@@ -5,7 +5,7 @@ image: /img/yellow.jpg
 description: Book notes & current read.
 ---
 <div class="card text-white bg-dark mb-3">
-  <h3 class="card-header bg-success">Currently Reading:</h3>
+  <h3 class="card-header bg-danger">Currently Reading:</h3>
   <div class="card-body">
     <h4 class="card-title">Smarter Faster Better</h4>
     <p class="card-text">The Secrets of Being Productive in Life and Business</p>
