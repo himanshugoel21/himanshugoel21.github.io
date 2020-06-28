@@ -31,7 +31,8 @@ description: Book notes & current read.
       <div class="card-body">
         <h5 class="card-title">The Compound Effect</h5>
         <p class="card-text"></p>
-        <a href="#" class="btn btn-dark">Goodreads</a>
+        <a href="https://www.goodreads.com/book/show/9420697-the-compound-effect" class="btn btn-dark">Goodreads</a>
+		<a href="https://himanshugoel.in/blog/compound-effect-summary" class="btn btn-success">My Notes</a>
       </div>
     </div>
   </div>
