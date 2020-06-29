@@ -278,6 +278,11 @@
 /* Error */
 .highlight .cpf { color: #aaaaaa; font-style: italic; }
 
+/* Half Highlight */
+.half_highlight {
+background: linear-gradient(to top, gold 50%, transparent 50%);
+}
+
 /* Comment.PreprocFile */
 html { padding-left: calc(100vw - 100%); }
 
