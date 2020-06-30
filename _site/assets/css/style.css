@@ -571,4 +571,4 @@ body { font-family: "Poppins", sans-serif; }
 
 .half_highlight { background: linear-gradient(to top, gold 50%, transparent 50%); }
 
-.half_highlight2 { background: linear-gradient(to top, LightSkyBlue 50%, transparent 50%); }
+.half_highlight2 { background: linear-gradient(to bottom, transparent 60%, PaleTurquoise 90%); }

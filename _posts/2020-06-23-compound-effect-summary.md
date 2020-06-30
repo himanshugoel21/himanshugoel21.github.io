@@ -6,7 +6,7 @@ color: light
 description: My notes on The Compound Effect
 ---
 
-## Introduction: 🔵
+## <span class="half_highlight2"> Introduction: 🔵 </span>
 
 1. **🔴Darren Hardy’s compound effect** is one of the most important book that I read again and again to remind myself of the tools and techniques Darren teaches. The techniques are so simple yet so effective.
 1. **Darren Says**🔊
@@ -26,7 +26,7 @@ description: My notes on The Compound Effect
 
 <div class="dropdown-divider"></div>
    
-## Chapter 2: Choices🥇
+## <span class="half_highlight2"> Chapter 2: Choices🥇 </span>
 
 1. Choices are the root of everyone of your results. Each choice starts with a behavior that overtime becomes a habit. In essence, you make your choices, and then your choices make you.
 1. Every choice has an impact on the Compound Effect of your life. Become aware and make choices that support the expansion of your life.
@@ -74,7 +74,7 @@ description: My notes on The Compound Effect
 
 <div class="dropdown-divider"></div>
 
-## Chapter 3: Habits📚
+## <span class="half_highlight2"> Chapter 3: Habits📚 </span>
 
 1. 🔥**Creatures of Habits:**
 	- Aristotle wrote, “We are what we repeatedly do.” Merriam-Webster defines habit this way: “An **acquired mode of behavior** that has become nearly or completely involuntary.”
@@ -192,7 +192,9 @@ description: My notes on The Compound Effect
 
 
 <div class="dropdown-divider"></div>
-## Chapter 4: Momentum🥋
+
+## <span class="half_highlight2"> Chapter 4: Momentum🥋 </span>
+
 1. **Big Mo is, without doubt, one of the most powerful and enigmatic forces of success.** You can’t see or feel Mo, but you know when you’ve got it.
 1. Once you’ve got Mo on your side, there’s almost no way anyone can catch you.
 1. Harnessing the **Power of Big Mo**:
@@ -232,7 +234,7 @@ description: My notes on The Compound Effect
 	- You have to do to **keep the pressure steady is to just pump the lever consistently**. That’s the Compound Effect.
 
 <div class="dropdown-divider"></div>
-## Chapter 5: Influences📊
+## <span class="half_highlight2"> Chapter 5: Influences📊 </span>
 
 For you to **sustain your positive trajectory** toward your goals, you’ll need to **understand and govern** these **influences** so they will support rather than derail your journey toward success. Everyone is affected by three kinds of influences: **input** (what you feed your mind), **associations** (the people with whom you spend time), and **environment** (your surroundings):
 1. **Input: Garbage In, Garbage Out**
@@ -257,7 +259,8 @@ For you to **sustain your positive trajectory** toward your goals, you’ll need
 	- You will **🔴get in life what you accept and expect you are worthy of**.
 
 <div class="dropdown-divider"></div>
-## Chapter 6: Acceleration🚀
+
+## <span class="half_highlight2"> Chapter 6: Acceleration🚀 </span>
 1. If you’re a runner, you know the experience. You get to the goal you set for yourself that day, and you’re feeling the burn, you’re at your wall, but you go a little farther, a little longer. This **🔴“little longer” is really a massive expansion of your limits.** You have multiplied the results of that single run.
 1. Viewing yourself as your toughest competitor is one of the best ways to multiply your results. **🔴Go above and beyond when you hit the wall.** Another way to multiply your results is pushing past what other people expect of you—doing more than “enough.”
 1. Where in life can you do more than expected when you hit the wall? Or where can you go for “WOW”? It doesn’t take a lot more effort, but the little extra multiplies your results many times over. Whether you’re making calls, serving customers, recognizing your team, acknowledging your spouse, going for a run, bench pressing, planning a date night, sharing time with your kids, whatever… **🔥what’s the little extra you can do that exceeds expectations and accelerates your results?**
@@ -265,7 +268,8 @@ For you to **sustain your positive trajectory** toward your goals, you’ll need
 1. Where **🔴can you do better and more than expected?** When can you do the totally unexpected? Find as many opportunities for “WOW,” and the level and speed of your accomplishments will astonish you… and everyone else around you.
 
 <div class="dropdown-divider"></div>
-## Conclusion:🙏
+
+## <span class="half_highlight2"> Conclusion:🙏 </span>
 1. Learning without **execution** is useless.
 1. The Compound Effect and the **results it will manifest in your life** are the real deal. Never again will you wish and hope that success will find you. The **Compound Effect is a tool** that, when **🔴combined with consistent, positive action, will make a real and lasting difference in your life.**
 1. Whenever you realize small, seemingly innocuous poor habits have crept back into your life, take out this book.
