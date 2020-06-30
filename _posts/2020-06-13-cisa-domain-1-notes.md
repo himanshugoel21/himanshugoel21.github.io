@@ -1,5 +1,5 @@
 ---
-title: CISA Domain 1 Notes
+title: <strong class="half_highlight" >CISA Domain 1 Notes</strong>
 tags: [Certification, CISA]
 style: fill
 color: light
@@ -7,8 +7,6 @@ description: Important CISA Domain 1 notes.
 ---
 
 Source: CISA Manual
-
-<strong class="half_highlight" style="color: royalblue; font-size: 50px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">CISA Domain 1 Notes</strong>
 
 **Risk = P * I (probability x impact).**
 

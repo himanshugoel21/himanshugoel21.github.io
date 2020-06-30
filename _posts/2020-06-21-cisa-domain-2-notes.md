@@ -1,5 +1,5 @@
 ---
-title: CISA Domain 2 Notes
+title: <strong class="half_highlight" >CISA Domain 2 Notes</strong>
 tags: [Certification, CISA]
 style: fill
 color: light

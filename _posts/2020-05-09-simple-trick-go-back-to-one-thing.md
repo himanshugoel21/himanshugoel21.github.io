@@ -1,5 +1,5 @@
 ---
-title: Simple trick to go back to “The One Thing”
+title: <strong class="half_highlight" >Simple trick to go back to “The One Thing”</strong>
 tags: [productivity, one thing]
 style: fill
 color: light

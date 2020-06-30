@@ -1,5 +1,5 @@
 ---
-title: The Compound Effect Summary
+title: <strong class="half_highlight" >The Compound Effect Summary</strong>
 tags: [Book Notes]
 style: fill
 color: light
@@ -15,7 +15,7 @@ description: My notes on The Compound Effect
 
 <div class="dropdown-divider"></div>
 
-## Chapter 1: The Compound Effect In Action🎯
+## <span class="half_highlight2">Chapter 1: The Compound Effect In Action🎯 </span>
 
 1. **🔥Definition:** **“The Compound Effect is the principle of reaping huge rewards from a series of small, smart choices.”**
 1. Even though results are massive, the steps, in the moment, don’t feel significant. Use these small subtle changes to improve your health, relationships, finances, goals or anything else that matters.
