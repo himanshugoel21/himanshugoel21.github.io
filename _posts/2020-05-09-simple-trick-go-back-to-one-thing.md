@@ -15,7 +15,7 @@ By this time I am sure you are aware what’s “The One Thing”. The One Thing
 
 For example: Your “One Thing” can be to loose weight. It can be to write an article. Or it can be to study for a certification. Or it can be to prepare a financial plan for yourself.
 
-<span class="half_highlight"> ### Following are the 3 methods you can follow to get out of this procrastination loop: </span>
+### <span class="half_highlight">Following are the 3 methods you can follow to get out of this procrastination loop: </span>
 
 - <span class="half_highlight2">**Create a space**</span>: Give yourself a distraction free 15-25 minutes by putting all your stuff (mobile, messages, social media, etc.) aside. Just take out 15-25 minutes and ignore all other stuff just for this much little time and start work on your “One Thing”. Remind yourself again and again that it is just for this time period of 15-25 minutes that you are working on. A pomodoro timer can assist you on this.
 - <span class="half_highlight2">**Meditate**</span>: For a minute or so before you sit to start your one thing. Take few deep breaths, lighten the body, drop your shoulders, smile and relax. Nothing is bothering you. Nothing will happen in those 15-25 minutes. Keep your mind and hear open and start your work with that beautiful smile.
