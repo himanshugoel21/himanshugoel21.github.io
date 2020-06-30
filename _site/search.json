@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "&lt;strong class=&quot;half_highlight&quot; &gt;PCI DSS Software Security Framework&lt;/strong&gt;",
+      "category" : "",
+      "tags"     : "Compliance",
+      "url"      : "/blog/pci-dss-software-security-framework",
+      "date"     : "2020-06-29 00:00:00 +0530"
+    } ,
+  
+    {
       "title"    : "&lt;strong class=&quot;half_highlight&quot; &gt;The Compound Effect Summary&lt;/strong&gt;",
       "category" : "",
       "tags"     : "Book Notes",

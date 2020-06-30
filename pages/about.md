@@ -12,6 +12,7 @@ Welcome to my home on the Internet🌎. Here you can find my learnings and shari
 
 You can reach me at💌: <strong class="half_highlight" >hgoel2112@gmail.com.</strong>
 
+
 <div class="row">
 {% include about/skills.html title="Work Related Skills" source=site.data.programming-skills %}
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}

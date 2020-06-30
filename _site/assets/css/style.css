@@ -569,6 +569,6 @@ body { font-family: "Poppins", sans-serif; }
 .timeline-body .timeline-item .content { margin: 40px; padding-bottom: 20px; border-bottom: 1px dashed #343a40; }
 .timeline-body .timeline-item .content .date { margin-top: -5px; margin-bottom: 15px; color: #6c757d; }
 
-.half_highlight { background: linear-gradient(to top, gold 50%, transparent 50%); }
+.half_highlight { background: linear-gradient(to bottom, transparent 65%, gold 35%); }
 
 .half_highlight2 { background: linear-gradient(to bottom, transparent 60%, PaleTurquoise 90%); }
