@@ -7,7 +7,6 @@ description: My Favourite Clicks around the World
 
 
 
-
 <div class="card-group">
   <div class="card text-center" style="width: 12rem;">
   <div class="card-body bg-light">
