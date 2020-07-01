@@ -4,75 +4,102 @@ tools: [Top Books]
 image: /img/yellow.jpg
 description: Book notes & current read.
 ---
-<div class="card text-white bg-dark mb-3">
-  <h3 class="card-header bg-danger">Currently Reading:</h3>
-  <div class="card-body">
-    <h4 class="card-title">Smarter Faster Better</h4>
-    <p class="card-text">The Secrets of Being Productive in Life and Business</p>
-	<a href="https://www.goodreads.com/book/show/25733966-smarter-faster-better" class="btn btn-light">Goodreads</a>
+
+# <span class="half_highlight2 text-center"> Current Read & Favorite Books </span>
+
+<div class="card-group">
+  <div class="card text-center" style="width: 9rem;">
+  <div class="card-body bg-warning">
+    <img class="card-img-top" src="/img/resize/smarterfasterbetter_res.jpg" alt="Smarter Faster Better">
+    <a href="#" class="btn btn-success">Currently Reading</a>
   </div>
+  </div>
+
+  <div class="card text-center" style="width: 9rem;">
+  <div class="card-body bg-dark">
+    <img class="card-img-top" src="/img/resize/theonething_res.jpg" alt="The One Thing">
+    <a href="#" class="btn btn-success">GoodReads</a>
+  </div>
+  </div>
+
+  <div class="card text-center" style="width: 9rem;">
+  <div class="card-body bg-dark">
+    <img class="card-img-top" src="/img/resize/thecompoundeffect_res.jpg" alt="The Compound Effect">
+    <a href="#" class="btn btn-success">GoodReads</a>
+    <div class="dropdown-divider"></div>
+    <a href="/blog/compound-effect-summary" class="btn btn-danger">My Notes</a>
+  </div>
+  </div>
+
+  <div class="card text-center" style="width: 9rem;">
+  <div class="card-body bg-dark">
+    <img class="card-img-top" src="/img/resize/atomichabits_res.jpg" alt="Atomic Habits">
+    <a href="#" class="btn btn-success">GoodReads</a>
+  </div>
+  </div>
+
 </div>
 
-<div class="dropdown-divider"></div>
 
-## My Favourite Books:
-<div class="row">
-  <div class="col-sm-4">
-    <div class="card bg-light mb-3">
-      <div class="card-body">
-        <h5 class="card-title">The One Thing</h5>
-        <p class="card-text"></p>
-        <a href="#" class="btn btn-dark">Goodreads</a>
-      </div>
-    </div>
+<div class="card-group">
+  <div class="card text-center" style="width: 9rem;">
+  <div class="card-body bg-dark">
+    <img class="card-img-top" src="/img/resize/deepwork_res.jpg" alt="Deep Work">
+    <a href="#" class="btn btn-success">GoodReads</a>
   </div>
-  <div class="col-sm-4">
-    <div class="card bg-light mb-3">
-      <div class="card-body">
-        <h5 class="card-title">The Compound Effect</h5>
-        <p class="card-text"></p>
-        <a href="https://www.goodreads.com/book/show/9420697-the-compound-effect" class="btn btn-dark">Goodreads</a>
-		<a href="https://himanshugoel.in/blog/compound-effect-summary" class="btn btn-success">My Notes</a>
-      </div>
-    </div>
   </div>
-  <div class="col-sm-4">
-    <div class="card bg-light mb-3">
-      <div class="card-body">
-        <h5 class="card-title">Atomic Habits</h5>
-        <p class="card-text"></p>
-        <a href="#" class="btn btn-dark">Goodreads</a>
-      </div>
-    </div>
+
+  <div class="card text-center" style="width: 9rem;">
+  <div class="card-body bg-dark">
+    <img class="card-img-top" src="/img/resize/thinkingfastandslow_res.jpg" alt="Thinking Fast And Slow">
+    <a href="#" class="btn btn-success">GoodReads</a>
   </div>
+  </div>
+
+  <div class="card text-center" style="width: 9rem;">
+  <div class="card-body bg-dark">
+    <img class="card-img-top" src="/img/resize/outliers_res.jpg" alt="Outliers">
+    <a href="#" class="btn btn-success">GoodReads</a>
+  </div>
+  </div>
+
+  <div class="card text-center" style="width: 9rem;">
+  <div class="card-body bg-dark">
+    <img class="card-img-top" src="/img/resize/thepowerofnow_res.jpg" alt="The Power Of Now">
+    <a href="#" class="btn btn-success">GoodReads</a>
+  </div>
+  </div>
+
 </div>
 
-<div class="row">
-  <div class="col-sm-4">
-    <div class="card bg-light mb-3">
-      <div class="card-body">
-        <h5 class="card-title">Deep Work</h5>
-        <p class="card-text"></p>
-        <a href="#" class="btn btn-dark">Goodreads</a>	
-      </div>
-    </div>
+<div class="card-group">
+  <div class="card text-center" style="width: 9rem;">
+  <div class="card-body bg-dark">
+    <img class="card-img-top" src="/img/resize/shoedog_res.jpg" alt="Shoe Dog">
+    <a href="#" class="btn btn-success">GoodReads</a>
   </div>
-  <div class="col-sm-4">
-    <div class="card bg-light mb-3">
-      <div class="card-body">
-        <h5 class="card-title">Outliers</h5>
-        <p class="card-text"></p>
-        <a href="#" class="btn btn-dark">Goodreads</a>
-      </div>
-    </div>
   </div>
-  <div class="col-sm-4">
-    <div class="card bg-light mb-3">
-      <div class="card-body">
-        <h5 class="card-title">The Power Of Now</h5>
-        <p class="card-text"></p>
-        <a href="#" class="btn btn-dark">Goodreads</a>
-      </div>
-    </div>
+
+  <div class="card text-center" style="width: 9rem;">
+  <div class="card-body bg-dark">
+    <img class="card-img-top" src="/img/resize/maketime_res.jpg" alt="Make Time">
+    <a href="#" class="btn btn-success">GoodReads</a>
   </div>
+  </div>
+
+  <div class="card text-center" style="width: 9rem;">
+  <div class="card-body bg-dark">
+    <img class="card-img-top" src="/img/resize/thinkandgrowrich_res.jpg" alt="Think and Grow Rich">
+    <a href="#" class="btn btn-success">GoodReads</a>
+  </div>
+  </div>
+
+<div class="card text-center" style="width: 9rem;">
+  <div class="card-body bg-dark">
+    <img class="card-img-top" src="/img/resize/sapiens_res.jpg" alt="Sapiens: A Brief History of Humankind">
+    <a href="#" class="btn btn-success">GoodReads</a>
+  </div>
+  </div>
+
+
 </div>
