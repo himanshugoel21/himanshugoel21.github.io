@@ -3,5 +3,5 @@ name: Meditation 🧘‍♀️
 tools: [Insight Timer]
 image: /img/green.jpg
 description: Meditation log and notes.
-external_url: https://www.notion.so/Meditation-Log-Notes-8d1eb371ba55425ea4860a620d443f5f
+external_url: https://www.notion.so/Hi-My-Name-is-Himanshu-2227ab3bceb44e22847a1da9444a06e4
 ---
