@@ -589,4 +589,4 @@ body { font-family: "Poppins", sans-serif; }
 @media screen and (max-width: 800px) { .column { flex: 50%; max-width: 50%; } }
 /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 600px) { .column { flex: 100%; max-width: 100%; }
-  .column img { filter: drop-shadow(8px 8px 10px grey) brightness(2); } }
+  .column img { filter: drop-shadow(8px 8px 10px grey) brightness(0); } }
