@@ -14,12 +14,12 @@ description: iPhone & Canon 700D Clicks
   <div class="container-fluid">
     <div class="row">
       <div class="column">
-		<span class="half_highlight3"> Kalimpong: </span>
+		<span class="half_highlight3">Darjeeling & Kalimpong: </span>
+		<img src="/img/kalimpong&darjeeling.jpg"/>
       	<img src="/img/nursery/nursery3.jpg"/>
 		<img src="/img/nursery/nursery2.jpg"/>
 		<img src="/img/nursery/nursery1.jpg"/>
 		<img src="/img/nursery/nursery6.jpg"/>
-		<img src="/img/nursery/nursery5.jpg"/>
 	</div>
       <div class="column">
 		<img src="/img/nursery/nursery4.jpg"/>
@@ -33,6 +33,7 @@ description: iPhone & Canon 700D Clicks
 		<img src="/img/nursery/nursery12.jpg"/>
 		<img src="/img/nursery/nursery13.jpg"/>
 		<img src="/img/nursery/nursery14.jpg"/>
+		<img src="/img/nursery/nursery5.jpg"/>
       </div>
     </div>
   </div>
