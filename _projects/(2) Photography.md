@@ -2,7 +2,7 @@
 name: Photography(Best Clicks)📸
 tools: [Photography, Oh Hello World]
 image: /img/red.jpg
-description: My Favourite Clicks around the World
+description: Favourite Clicks with iPhone & Canon 700D
 ---
 <html>
 
