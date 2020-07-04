@@ -15,7 +15,6 @@ description: December 2019 👫
   <div class="container-fluid">
     <div class="row">
       <div class="column">
-		<span class="half_highlight3">Darjeeling & Kalimpong: </span>
 		<img src="/img/kalimpong&darjeeling.jpg"/>
       	<img src="/img/nursery/nursery3.jpg"/>
 		<img src="/img/nursery/nursery2.jpg"/>
