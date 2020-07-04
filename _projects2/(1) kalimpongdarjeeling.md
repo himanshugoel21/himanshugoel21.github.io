@@ -1,8 +1,8 @@
 ---
-name: Kalimpong & Darjeeling
-tools: [Canon 700D, iPhone XR]
-image: /img/green.jpg
-description: December 2019 Pictures
+name: Kalimpong🏰 & Darjeeling🗻
+tools: [Canon 700D📸, iPhone XR📱]
+image: /img/darjeeling.jpg
+description: December 2019 👫
 ---
 
 <html>
