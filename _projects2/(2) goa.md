@@ -15,13 +15,13 @@ description: March 2020
   <div class="container-fluid">
     <div class="row">
       <div class="column">
-		<img src="/img/goa/goa1.jpg"/>
+		<img src="/img/goa/Optimized-goa1.jpg"/>
 	</div>
       <div class="column">
-		<img src="/img/goa/goa2.jpg"/>
+		<img src="/img/goa/Optimized-goa2.jpg"/>
       </div>
 	  <div class="column">
-        <img src="/img/goa/goa3.jpg"/>
+        <img src="/img/goa/Optimized-goa3.jpg"/>
       </div>
     </div>
   </div>
