@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
+title: <strong class="half_highlight" > About </strong>
 permalink: /about/
-weight: 3
+weight: 4
 ---
 
 # <strong class="half_highlight" >About Me 😎 </strong>
