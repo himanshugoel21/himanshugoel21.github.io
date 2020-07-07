@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "&lt;strong class=&quot;half_highlight&quot; &gt;Top 10 Points from &quot;The Power Of Now&quot;&lt;/strong&gt;",
+      "category" : "",
+      "tags"     : "Book Notes",
+      "url"      : "/blog/the-power-of-now",
+      "date"     : "2020-07-07 00:00:00 +0530"
+    } ,
+  
+    {
       "title"    : "&lt;strong class=&quot;half_highlight&quot; &gt;PCI DSS Software Security Framework&lt;/strong&gt;",
       "category" : "",
       "tags"     : "Compliance",

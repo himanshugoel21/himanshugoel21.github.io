@@ -579,6 +579,8 @@ body { font-family: "Poppins", sans-serif; }
 
 .half_highlight3 { background: linear-gradient(to bottom, transparent 65%, Coral 35%); }
 
+.half_highlight4 { background: linear-gradient(to bottom, transparent 75%, Coral 25%); }
+
 .row { display: flex; flex-wrap: wrap; padding: 0 4px; }
 
 .row { display: flex; flex-wrap: wrap; padding: 0 4px; }
