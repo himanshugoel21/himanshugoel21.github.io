@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <strong class="half_highlight" > About </strong>
+title: <strong class> About </strong>
 permalink: /about/
 weight: 4
 ---
