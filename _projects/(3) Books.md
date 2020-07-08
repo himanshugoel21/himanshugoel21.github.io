@@ -67,6 +67,8 @@ description: Book notes & current read.
   <div class="card-body bg-dark">
     <img class="card-img-top" src="/img/resize/thepowerofnow_res.jpg" alt="The Power Of Now">
     <a href="#" class="btn btn-success">GoodReads</a>
+    <div class="dropdown-divider"></div>
+    <a href="/blog/the-power-of-now" class="btn btn-danger">Top 10 Points</a>
   </div>
   </div>
 
