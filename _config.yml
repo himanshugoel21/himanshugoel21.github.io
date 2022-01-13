@@ -9,7 +9,7 @@ remote_theme        : himanshugoel21/himanshugoel.github.io
 
 ### Plugins ###
 
-url: "https://hgoel.in" # the base hostname & protocol for your site
+url: "https://www.hgoel.in" # the base hostname & protocol for your site
 plugins:
   - jekyll-sitemap
   - jemoji
